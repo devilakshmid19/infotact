@@ -1,4 +1,4 @@
-# 📊 Customer Segmentation using K-Means Clustering
+# 📊 Customer Segmentation 
 
 ## 📝 Project Description
 This project applies **K-Means Clustering** to perform **customer segmentation** based on various features. The goal is to analyze customer behavior and categorize them into distinct groups to provide valuable business insights.
